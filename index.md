@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Add some text to see what happens
