@@ -3,7 +3,7 @@ author:
   name:
   email:
 description: > # this means to ignore newlines until "show_excerpts:"
-    My adventures as an established front end developer turned coding newbie
+    Adventures in chocolate driven development
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
